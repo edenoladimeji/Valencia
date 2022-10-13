@@ -1,0 +1,297 @@
+.body{
+    overflow-x: hidden;
+}
+.topbar{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 230px;
+    padding-right: 400px;
+    background-color: red;
+    color: white;
+    margin: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+body{
+    margin: 0px;
+}
+.hello{
+    padding-left: 250px;
+    padding-right: 30px;
+    padding-top: 30px;    
+}
+a{
+    color: black;
+}
+.ul{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 0.5%;
+}
+ul li{
+    padding-left: 10px;  
+    display: inline-block;
+    text-decoration: none;
+}
+.slider{
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding: 0;
+    position: relative;
+    color: white;
+    background-color: black;
+   
+}
+.slide2{
+    width: 100%;
+    height: auto;
+    opacity: 0.5;
+}
+.name{
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    font-size: 55px;
+}
+.motto{
+     position: absolute;
+     top: 270px;
+     left: 300px;
+     font-size: 70px;
+     font-weight: 350;
+     font-style: italic;
+}
+.readmore{
+    position: absolute;
+    top: 430px;
+    left: 750px;
+    padding: 10px 20px;
+    color: white;
+    border: 1px solid white;
+    background-color: initial;
+}
+.about{
+    margin: 1% 13%;
+}
+.dailyalerts{
+    display: flex;
+    margin-bottom: 30px;
+    border-bottom: 3px solid #a5a4a4;
+    color: #929090;
+}
+.dailyalertsbutton{
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 0px;
+    height: 30px;
+    color: white;
+    margin-right: 30px;
+}
+.greetings{
+    margin: 10px 0px;
+    display: flex;
+}
+.welcomespeech{
+    background-color: #a5a4a4;
+    display: flex;
+    margin-right: 15px;
+    padding: 15px;
+}
+.picture{
+    border: 5px solid #524f4f;
+    margin-right: 15px;
+}
+.read{
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+}
+.admission{
+    font-size: 16px;
+    margin-top: 0px;
+    background-color: red;
+    padding: 10px;
+    color: white;
+    margin-left: 5px;
+}
+.admissionform{
+    border-bottom: 2px solid white;
+    padding: 5px 0px;
+}
+.download{
+    background-color: white;
+    color: red;
+    padding: 5px 10px;
+    border: 1px solid red;
+
+}
+.notice{
+    background-color: #a5a4a4;
+    padding: 10px;
+    margin: 30px 0px 0px 3px ;  
+}
+.abouts{
+    display: flex;
+    margin: 1% 13%;
+    font-size: 14px;
+}
+.aboutus{
+    margin: 10px 20px 10px 0px;
+}
+.us{
+    border-bottom: 1px solid #9b9999;
+    padding-bottom: 30px;
+}
+.use{
+    display: flex;
+}
+.build{
+    margin-right: 30px;
+    border: 5px solid #524f4f;
+    height: 220px;
+    margin-top: 30px;
+}
+.color{
+    color: red;
+}
+.government{
+    margin-left: 40px;
+    justify-content: end;
+}
+.down{
+    margin-top: 35px;
+    margin-bottom: 10px;
+    background-color: #cac6c6;
+    padding-left: 40px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}.abt{
+    display: flex;
+    margin-left: 205px;
+}
+.img{
+    display:flex;
+    height: 130px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+.imgs{
+    margin-right: 10px;
+}
+.our{
+    background-color: #cac6c6;
+    padding-left: 40px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.pad{
+    margin-bottom: 20px;
+}
+.award{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #cac6c6;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.dis{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.big{
+    background-color: red;
+    padding: 10px 0px;
+    color: white;
+}
+.small{
+    display: flex;
+    margin: 0% 13%;
+}
+.text{
+    border-radius: 1px;
+    background-color: white;
+    margin-left: 100px;
+    padding: 10px 200px 10px 20px;
+    border-color: white;
+
+}
+.point{
+    border-radius: 11px solid white;
+    padding: 10px 35px;
+    margin-left: 40px;
+    background-color: red;
+    color: white;
+}
+.large{
+    display: flex;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+.log{
+    height: 65px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.icon{
+    margin-left: 20px;
+    display: flex;
+}
+.primary{
+   margin-right: 20px;
+   border: 4px solid #0202c5;
+   border-radius: 50%;
+   background-color: #0202c5;
+    color:white ;
+   font-size: 35px;
+   width: 100px;
+   height: auto;
+}
+.blaq{
+    padding-left: 20px;
+    margin-top: 5px;
+}
+.one{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.three{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+}
+.lag{
+    padding-left: 20px;
+    margin-top: 5px;
+}
+.last{
+    padding-left: 20px;
+    margin-top: 5px;
+}
+.pill{
+    display: flex;
+    background-color: #313131;
+    justify-content: space-between;
+    color: #b4b3b3;
+    margin-bottom: 10px;
+}
+
+
